@@ -1,5 +1,6 @@
+![icon2x3](https://user-images.githubusercontent.com/25215069/218294225-31d5fb28-6ca9-4830-9cb8-5a50bd1f187a.png)
 
-![icon3x](https://user-images.githubusercontent.com/25215069/218293662-f4a81df6-1943-46f5-8215-c78a194afff4.png)
+
 
 Heat up!
 
