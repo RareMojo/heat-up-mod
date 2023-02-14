@@ -2,7 +2,6 @@
   "schemaVersion": 1,
   "id": "heatup",
   "version": "${version}",
-
   "name": "Heat Up!",
   "description": "This adds some new heat sources to the game.",
   "authors": [
@@ -12,23 +11,23 @@
     "homepage": "randomservertitle.info",
     "sources": ""
   },
-
   "license": "CC0-1.0",
   "icon": "assets/heatup/icon.png",
-
   "environment": "*",
   "entrypoints": {
     "main": [
-      "raremojo.heat.up.HeatUp"
-    ]
-  },
+      "raremojo.heatup.HeatUp"
+    ],
   "clients": [
-    "raremojo.heat.up.HeatUp"
-  ],
+    "raremojo.heatup.HeatUp"
+    ],
+  "fabric-datagen": [
+      "raremojo.heatup.HeatUpDataGenerator"
+    ]
+},
   "mixins": [
     "heatup.mixins.json"
   ],
-
   "depends": {
     "fabricloader": ">=0.14.11",
     "fabric-api": "*",

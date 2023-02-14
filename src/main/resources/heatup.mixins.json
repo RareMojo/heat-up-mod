@@ -1,12 +1,12 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "raremojo.heat.up.mixin",
+  "package": "raremojo.heatup.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
   ],
   "client": [
-    "ExampleMixin"
+    "HeatUpMixin"
   ],
   "injectors": {
     "defaultRequire": 1
